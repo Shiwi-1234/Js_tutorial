@@ -1,0 +1,8 @@
+console.log(2+2)
+console.log("2" + 2)
+console.log(2 + "2")
+console.log(2*2)
+console.log(2/2)
+console.log(22 % 2)
+console.log("1" + 2 +3)
+console.log(1 + 2 + "3")
