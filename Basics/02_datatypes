@@ -1,0 +1,14 @@
+let address = "mayur vihar"
+let age = 24
+let city = null
+let country
+console.log(address)
+console.log(typeof address)
+console.log(typeof country)
+console.log(typeof age)
+console.log(typeof city)
+//object
+//undefine
+//bigint
+//null
+//boolean
