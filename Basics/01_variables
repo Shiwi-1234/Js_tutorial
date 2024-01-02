@@ -1,0 +1,5 @@
+const name = "shiwi"
+let age = 23
+var city = "Indore"
+ 
+ console.table([name , age ,city])
